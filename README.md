@@ -26,7 +26,7 @@ until it goes bad (if it does). Quite a bit of logic to handle that, but not so 
 
 That's what I can think of to mention right now.
 
-Here's the image (the function name is lacking "ST", sorry about that, it's Send-STSplunkMessage in the code here):
+Here's the image. The function name is lacking "ST", sorry about that, it's Send-STSplunkMessage in the code here.
 
 ![splunked_message_demo](/Images/20210601splunktest.jpg)
 
