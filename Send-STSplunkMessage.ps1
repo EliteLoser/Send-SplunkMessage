@@ -2,7 +2,7 @@
 
 # Author: Joakim Borger Svendsen, 2016-present.
 # Svendsen Tech. MIT license.
-# Send-STSplunkMessage
+# Send-STSplunkMessage. GitHub here: https://github.com/EliteLoser/Send-SplunkMessage
 
 # I make an attempt at semantic versioning...
 
