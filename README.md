@@ -1,6 +1,8 @@
 # Send-STSplunkMessage
 Send-STSplunkMessage is a PowerShell version 2-compatible function for sending ad hoc splunk messages to specified index, source, source type and (list of) Splunk forwarder URI(s). The function converts an -InputObject to JSON using either ConvertTo-STJson on PSv2 and if -CoerceNumberStrings is specified - or the built-in ConvertTo-Json on PSv3+
 
+ConvertTo-STJson can be found here: https://github.com/EliteLoser/ConvertTo-Json/blob/master/ConvertTo-STJson.ps1 ( https://github.com/EliteLoser/ConvertTo-Json/ ).
+
 This isn't perfected in every detail, but pretty decent. Eagerly awaiting feedback and pull requests and/or suggestions. Open an issue if you have a suggestion
 or question.
 
